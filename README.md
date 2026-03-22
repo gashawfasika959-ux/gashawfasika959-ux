@@ -1,7 +1,11 @@
 <div align="center">
 
-# 👋 Hello, I'm Fasika Gashaw Mekonnen
-### Computer Science Student @ BITS College | UX Enthusiast | Python Developer
+# 🚀 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Fasika+Gashaw+Mekonnen;Software+Engineering+Student;BITS+College+Addis+Ababa;Building+the+Future+of+Tech" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bm96Ym96Ym96Ym96Ym96Ym96Ym96Ym96Ym96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="350">
+</p>
+
 **"Unlocking the World's Equations"**
 
 <br />
@@ -9,28 +13,27 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fasika-gashaw-174a273b7/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gashawfasika959-ux)
 
+---
+
+### ⚙️ Engineering Focus
+- 🏗️ **Software Architecture** & System Design.
+- 🖥️ **CPU Scheduling** & Logic Gates.
+- 🐍 **Python** & Modern Web Engineering.
+
+---
+
+### 🛠️ Animated Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,figma&theme=dark" />
+</p>
+
+---
+
+### 📊 Live Coding Stats
+<img src="https://github-readme-stats.vercel.app/api?username=gashawfasika959-ux&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+
 <br />
 
----
-
-### 💻 About Me
-- 🎓 Pursuing my degree in **Computer Science** in Addis Ababa.
-- 🛠️ Interested in **CPU Scheduling**, **Discrete Math**, and **Logic Gates**.
-- 🐍 Building projects with **Python**, **HTML5**, and **CSS3**.
-- 🎨 Focused on **modern and futuristic technology aesthetics**.
-
----
-
-### 🛠️ Tech Stack & Skills
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-
----
-
-### 📊 My GitHub Journey
-<img src="https://github-readme-stats.vercel.app/api?username=gashawfasika959-ux&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<br />
-
-"Give me a ⭐ if you like my projects!"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gashawfasika959-ux&theme=tokyonight" />
 
 </div>
