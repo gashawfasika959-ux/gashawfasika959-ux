@@ -19,21 +19,33 @@
 - 🏗️ **Software Architecture** & System Design.
 - 🖥️ **CPU Scheduling** & Logic Gates.
 - 🐍 **Python** & Modern Web Engineering.
+- 🎓 Studying at **BITS College**, Addis Ababa.
 
 ---
 
-### 🛠️ Animated Tech Stack
-<p align="left">
+### 🛠️ Tech Stack & Skills
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-### 📊 Live Coding Stats
-<img src="https://github-readme-stats.vercel.app/api?username=gashawfasika959-ux&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+### 📊 Live Engineering Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gashawfasika959-ux&show_icons=true&theme=neon&rank_icon=github&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gashawfasika959-ux&layout=compact&theme=neon&border_radius=10&langs_count=5" />
+</p>
+
+---
+
+### 📂 Featured Project
+- **[Project Core](https://github.com/gashawfasika959-ux/project%20core)** - A software engineering repository focused on core programming fundamentals.
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gashawfasika959-ux&theme=tokyonight" />
+"Give me a ⭐ if you like my work!"
 
 </div>
