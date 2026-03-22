@@ -39,11 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gashawfasika959-ux&layout=compact&theme=neon&border_radius=10&langs_count=5" />
 </p>
 
----
-
-### 📂 Featured Project
-- **[Project Core](https://github.com/gashawfasika959-ux/project%20core)** - A software engineering repository focused on core programming fundamentals.
-
 <br />
 
 "Give me a ⭐ if you like my work!"
