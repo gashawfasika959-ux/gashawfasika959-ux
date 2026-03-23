@@ -1,15 +1,15 @@
-<!-- HERO BANNER --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=220&section=header&text=Fasika%20Gashaw&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /></div>👋 Hi, I'm Fasika Gashaw
+<!-- HEADER --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00C2FF&height=200&section=header&text=Fasika%20Gashaw&fontSize=40&fontColor=ffffff" /></div>👋 Hi, I'm Fasika Gashaw
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Web+Developer;Problem+Solver;Building+Real+World+Projects;Always+Learning+%26+Improving" /></div>
+
 ---
 
 🚀 About Me
 
-🎓 Student & Future Software Engineer
+🎓 Student & aspiring Software Engineer
 
 💻 Focused on Java & Web Development
 
-🔥 Passionate about building real-world projects
+🔥 Interested in building real-world projects
 
 🌍 Based in Ethiopia
 
@@ -40,45 +40,35 @@
 
 🔹 Java OOP Practice Projects
 
-🔹 GitHub Clone UI (Frontend)
+🔹 Small Java Console Applications
 
 
-> 🚧 More projects coming soon...
+> 📁 More projects available on my repositories
 
 
 
 
 ---
 
-📊 GitHub Stats
+📊 GitHub Stats (Real Data Only)
 
-<div align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=gashawfasika959-ux&show_icons=true&theme=tokyonight&hide_border=true"/><img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gashawfasika959-ux&theme=tokyonight&hide_border=true"/></div>
----
-
-🔥 Top Languages
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gashawfasika959-ux&layout=compact&theme=tokyonight&hide_border=true" /></div>
+<div align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=gashawfasika959-ux&show_icons=true&theme=default"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gashawfasika959-ux&layout=compact&theme=default"/></div>
 ---
 
 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gashawfasika959-ux&label=Profile%20Views&color=00F7FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=gashawfasika959-ux&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
----
-
-🐍 Contribution Snake
-
-<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /></div>
 ---
 
 🧠 Currently Learning
 
-Advanced Java (OOP, Projects)
+Advanced Java (OOP & Projects)
 
-Git & GitHub Mastery
+Git & GitHub workflows
 
-Frontend Development
+Frontend development basics
 
 
 
@@ -86,20 +76,20 @@ Frontend Development
 
 💡 Quote
 
-> "Consistency beats talent when talent doesn’t work hard."
+> "Consistency is more important than perfection."
 
 
 
 
 ---
 
-⚡ Fun Fact
+⚡ Note
 
-🚀 I don’t just write code — I build ideas into reality.
+This profile focuses on real GitHub activity and actual repositories, not simulated metrics.
 
 
 ---
 
-<div align="center">⭐️ From Fasika | Keep Building 🚀
+<div align="center">⭐ From Fasika Gashaw | Keep building 🚀
 
 </div>
