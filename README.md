@@ -16,7 +16,6 @@
 ---
 
 ### ⚙️ Engineering Focus
-- 🏗️ **Software Architecture** & System Design.
 - 🖥️ **CPU Scheduling** & Logic Gates.
 - 🐍 **Python** & Modern Web Engineering.
 - 🎓 Studying at **BITS College**, Addis Ababa.
