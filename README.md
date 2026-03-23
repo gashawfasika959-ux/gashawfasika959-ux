@@ -1,6 +1,6 @@
-👋 Hi, I'm Fasika Gashaw
+<!-- HERO BANNER --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=220&section=header&text=Fasika%20Gashaw&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /></div>👋 Hi, I'm Fasika Gashaw
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Java+%7C+Web+Developer;Building+Real+World+Projects;Always+Learning+%26+Improving" /></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Web+Developer;Problem+Solver;Building+Real+World+Projects;Always+Learning+%26+Improving" /></div>
 ---
 
 🚀 About Me
@@ -9,7 +9,7 @@
 
 💻 Focused on Java & Web Development
 
-🔥 Love solving real-world problems with code
+🔥 Passionate about building real-world projects
 
 🌍 Based in Ethiopia
 
@@ -23,12 +23,31 @@
   <a href="https://www.instagram.com/byteflow.56?igsh=N2hjZWx2bXF4d2V2">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/fasika-gashaw-174a273b7">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
 </p>
 ---
 
 🛠️ Tech Stack
 
 <div align="center"><img src="https://skillicons.dev/icons?i=java,html,css,js,github,vscode" /></div>
+---
+
+📌 Featured Projects
+
+🔹 Portfolio Website (HTML/CSS/JS)
+
+🔹 Java OOP Practice Projects
+
+🔹 GitHub Clone UI (Frontend)
+
+
+> 🚧 More projects coming soon...
+
+
+
+
 ---
 
 📊 GitHub Stats
@@ -39,6 +58,13 @@
 🔥 Top Languages
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gashawfasika959-ux&layout=compact&theme=tokyonight&hide_border=true" /></div>
+---
+
+👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gashawfasika959-ux&label=Profile%20Views&color=00F7FF&style=flat" />
+</p>
 ---
 
 🐍 Contribution Snake
@@ -74,6 +100,6 @@ Frontend Development
 
 ---
 
-<div align="center">⭐️ From Fasika | "Keep Building"
+<div align="center">⭐️ From Fasika | Keep Building 🚀
 
 </div>
