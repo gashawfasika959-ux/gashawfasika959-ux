@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fasika-gashaw-174a273b7/)
 
 [![Instagram]
----(<a href="https://instagram.com/yourusername">
+(<a href="https://instagram.com/yourusername">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="30"/>
 </a>).
 (https://www.instagram.com/byteflow.56?igsh=N2hjZWx2bXF4d2V2).
