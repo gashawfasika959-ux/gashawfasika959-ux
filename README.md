@@ -11,9 +11,12 @@
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fasika-gashaw-174a273b7/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gashawfasika959-ux)
 
----
+[![Instagram]
+---(<a href="https://instagram.com/yourusername">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="30"/>
+</a>).
+(https://www.instagram.com/byteflow.56?igsh=N2hjZWx2bXF4d2V2).
 
 ### ⚙️ Engineering Focus
 - 🖥️ **CPU Scheduling** & Logic Gates.
