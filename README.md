@@ -1,48 +1,79 @@
-<div align="center">
+👋 Hi, I'm Fasika Gashaw
 
-# 🚀 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Fasika+Gashaw+Mekonnen;Software+Engineering+Student;BITS+College+Addis+Ababa;Building+the+Future+of+Tech" alt="Typing SVG" />
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Java+%7C+Web+Developer;Building+Real+World+Projects;Always+Learning+%26+Improving" /></div>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bm96Ym96Ym96Ym96Ym96Ym96Ym96Ym96Ym96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="350">
-</p>
+🚀 About Me
 
-**"Unlocking the World's Equations"**
+🎓 Student & Future Software Engineer
 
-<br />
+💻 Focused on Java & Web Development
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fasika-gashaw-174a273b7/)
+🔥 Love solving real-world problems with code
 
-[![Instagram]
-(<a href="https://instagram.com/yourusername">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="30"/>
-</a>).
-(https://www.instagram.com/byteflow.56?igsh=N2hjZWx2bXF4d2V2).
+🌍 Based in Ethiopia
 
-### ⚙️ Engineering Focus
-- 🖥️ **CPU Scheduling** & Logic Gates.
-- 🐍 **Python** & Modern Web Engineering.
-- 🎓 Studying at **BITS College**, Addis Ababa.
+
 
 ---
 
-### 🛠️ Tech Stack & Skills
+🌐 Connect With Me
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,figma&theme=dark" />
+  <a href="https://www.instagram.com/byteflow.56?igsh=N2hjZWx2bXF4d2V2">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" />
+  </a>
 </p>
+---
+
+🛠️ Tech Stack
+
+<div align="center"><img src="https://skillicons.dev/icons?i=java,html,css,js,github,vscode" /></div>
+---
+
+📊 GitHub Stats
+
+<div align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=gashawfasika959-ux&show_icons=true&theme=tokyonight&hide_border=true"/><img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gashawfasika959-ux&theme=tokyonight&hide_border=true"/></div>
+---
+
+🔥 Top Languages
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gashawfasika959-ux&layout=compact&theme=tokyonight&hide_border=true" /></div>
+---
+
+🐍 Contribution Snake
+
+<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /></div>
+---
+
+🧠 Currently Learning
+
+Advanced Java (OOP, Projects)
+
+Git & GitHub Mastery
+
+Frontend Development
+
+
 
 ---
 
-### 📊 Live Engineering Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gashawfasika959-ux&show_icons=true&theme=neon&rank_icon=github&border_radius=10" />
-</p>
+💡 Quote
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gashawfasika959-ux&layout=compact&theme=neon&border_radius=10&langs_count=5" />
-</p>
+> "Consistency beats talent when talent doesn’t work hard."
 
-<br />
 
-"Give me a ⭐ if you like my work!"
+
+
+---
+
+⚡ Fun Fact
+
+🚀 I don’t just write code — I build ideas into reality.
+
+
+---
+
+<div align="center">⭐️ From Fasika | "Keep Building"
 
 </div>
